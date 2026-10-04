@@ -76,3 +76,4 @@ AUTH_REQUIRED, INVALID_CREDENTIALS, VALIDATION_FAILED, FORBIDDEN, NOT_FOUND, SER
 git rm -r --cached .
 git add .
 git commit -m "gitignore fixed"
+git push
