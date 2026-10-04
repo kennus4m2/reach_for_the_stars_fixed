@@ -71,3 +71,8 @@ AUTH_REQUIRED, INVALID_CREDENTIALS, VALIDATION_FAILED, FORBIDDEN, NOT_FOUND, SER
     app/repositories/  all SQL lives here
     app/rules.py       numbers for stars, lives, chests
     docs/schema.sql    database tables
+
+
+git rm -r --cached .   clear everything
+git add .              re-add everything
+git commit -m          commit the changes
