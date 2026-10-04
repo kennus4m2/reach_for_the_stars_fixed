@@ -1,6 +1,10 @@
 .env
+
 __pycache__/
+
 venv/
+
 .venv/
+
 /schema.sql
-main.py
+
