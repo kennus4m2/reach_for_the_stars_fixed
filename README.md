@@ -73,6 +73,6 @@ AUTH_REQUIRED, INVALID_CREDENTIALS, VALIDATION_FAILED, FORBIDDEN, NOT_FOUND, SER
     docs/schema.sql    database tables
 
 
-git rm -r --cached .   clear everything
-git add .              re-add everything
-git commit -m          commit the changes
+git rm -r --cached .
+git add .
+git commit -m "gitignore fixed"
