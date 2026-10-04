@@ -6,5 +6,5 @@ venv/
 
 .venv/
 
-docs/schema.sql
+/schema.sql
 
